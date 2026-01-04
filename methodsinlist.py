@@ -1,0 +1,13 @@
+list=[24,32,34,45,]
+#list.append(4)
+#print(list)
+#list.sort()
+#print(list)
+#list.sort(reverse=True)
+#print(list)
+#list.insert(1,5)
+#print(list)
+#list.remove(24)
+#print(list)
+list.pop(2)
+print(list)
